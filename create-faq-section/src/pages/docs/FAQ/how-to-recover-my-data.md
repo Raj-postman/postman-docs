@@ -59,4 +59,4 @@ _If you already have Postman Canary installed, make sure to sign-out of the app 
 
 5. If any content is recovered, it will be added to your workspace after the import. If no data is recovered, you may only see a few empty default environments 
 
-If you need further assistance, please open a ticket with our Support Team: [https://www.postman.com/support] (https://www.postman.com/support)
+If you need further assistance, please open a ticket with our Support Team: [https://www.postman.com/support](https://www.postman.com/support)
