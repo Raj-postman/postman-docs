@@ -7,9 +7,9 @@ warning: false
 
 Newman and Jenkins are a perfect match to run the collection and if you want to schedule a collection to run at specific time intervals. Below steps should help you achieve the same:
 
-**Step 1:** Download and install Jenkins - [https://jenkins.io/download] (https://jenkins.io/download)
+**Step 1:** Download and install Jenkins - [https://jenkins.io/download](https://jenkins.io/download)
 
-**Step 2:** Install NodeJS and npm. Newman is written in NodeJS and we distribute the official copy through npm. Install - [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) 
+**Step 2:** Install NodeJS and npm. Newman is written in NodeJS and we distribute the official copy through npm. Install - [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) 
 
 **Step 3:** After Jenkins is installed and ready, browse this link - [http://localhost:8080](http://localhost:8080) and login to your Jenkins with credentials. Please note, Jenkins by default start on port 8080.
 
