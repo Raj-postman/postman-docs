@@ -6,14 +6,14 @@ warning: false
 ---
 
 ## Resolution steps
-**Forgot password**
+- **Forgot password**
 
 If you've forgotten your password, please navigate to [this page](https://identity.getpostman.com/trouble-signing-in) and click *Trouble signing in?* in order to receive a password reset link via email. If aren't receiving password reset emails from us, please try the following:
 1. Check your email's Spam or Junk folder. 
 2. Whitelist [noreply@notifications.getpostman.com](noreply@notifications.getpostman.com) in your email client, or domain policy if necessary. You can then request a password reset again, and the email should come through.
 3. If you are still unable to receive password reset emails after attempting the above steps, please contact help@postman.com.
 
-**Incorrect email at the time of Registration**
+- **Incorrect email at the time of Registration**
 
 If you accidentally used an invalid email address during signup, and have forgotten your password, please contact [help@postman.com](help@postman.com) for assistance. Please be ready to provide the following information:
 
@@ -30,6 +30,6 @@ If you accidentally used an invalid email address during signup, and have forgot
 If you have a **user role** then (1)&(2)&(3)&(4)&(5)&(6) can be used to verify the account (or  data) ownership and with the **Billing role**, you can verify by providing details on (7)&(8)&(9).
 
  
-**Verification** - Once the verification is done we will send the password reset link for the incorrect email id from the support ticket so that you can log in and later the email can be changed via this here
+- **Verification** - Once the verification is done we will send the password reset link for the incorrect email id from the support ticket so that you can log in and later the email can be changed via this here
 
 _**Criteria mentioned in this article is one way to verify. Will be contacting users for additional details**_
