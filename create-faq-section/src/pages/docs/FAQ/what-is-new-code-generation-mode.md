@@ -25,4 +25,4 @@ The configuration Icon will help you enable/disable settings.
 
 This mode has two new languages: Javascript Fetch, and Powershell REST method. We also have configurations for each language, which is accessible using the "Settings" Icon. Here you can change the Indent Count, Indent Type, etc for the generated code snippet.
 
-To know more, refer to this link: [https://github.com/postmanlabs/postman-code-generators]
+To know more, refer to this link: [https://github.com/postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
