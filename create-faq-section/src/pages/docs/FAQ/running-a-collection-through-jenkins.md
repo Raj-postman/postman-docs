@@ -15,22 +15,22 @@ Newman and Jenkins are a perfect match to run the collection and if you want to 
 
 **Step 4:** Create a new job by clicking on the “New Item” link on the left sidebar > Select a “Freestyle Project” from the options > Name your project. 
 
-![New Item](https://drive.google.com/open?id=1ibwagHFExOu9JjI9-Xt2YYNxSckujQNN)
+![Screenshot_2019-10-14_at_1.18.49_PM.png](https://support.getpostman.com/hc/article_attachments/360048223274/Screenshot_2019-10-14_at_1.18.49_PM.png)
 
-![Enter Name](https://drive.google.com/open?id=1uakLdrQCD1AZeZqh3FZOOfUvAuCYKvVW)
+![Screenshot_2019-10-15_at_11.47.47_AM.png](https://support.getpostman.com/hc/article_attachments/360048223334/Screenshot_2019-10-15_at_11.47.47_AM.png)
 
  **Step 5**: Goto build section of the Jenkins job created- add build step ->execute shell and add your "Newman command to run a collection in execute shell command section. (for e.g. - # newman run test_collection.json) and apply and save.
 
-![Execute](https://drive.google.com/open?id=1c5a72uAqZpgumFg0m5uYKnl9aMvcaQsE)
+![Screenshot_2019-10-15_at_11.52.49_AM.png](https://support.getpostman.com/hc/article_attachments/360049088633/Screenshot_2019-10-15_at_11.52.49_AM.png)
 
-![Execute Shell](https://drive.google.com/file/d/13jn161MSctj7PJ2bklTpQlqhtVcGTF0I)
+![Screenshot_2019-10-15_at_11.55.18_AM.png](https://support.getpostman.com/hc/article_attachments/360048223374/Screenshot_2019-10-15_at_11.55.18_AM.png)
 
 **Step 6**: Click on Build Now to run the collection.
 
-![Build Now](https://drive.google.com/open?id=1Z73boV-AwGWYZ3X2bzQOXz9qeLkzuRZ7)
+![Screenshot_2019-10-15_at_11.58.09_AM.png](https://support.getpostman.com/hc/article_attachments/360049088713/Screenshot_2019-10-15_at_11.58.09_AM.png)
 
  **Step 7**:  Now go to the Build History section and click on the recent build, to check the console output for the latest collection run results.
+ 
+![Screenshot_2019-10-15_at_5.34.32_PM.png](https://support.getpostman.com/hc/article_attachments/360049107393/Screenshot_2019-10-15_at_5.34.32_PM.png)
 
-![Build History](https://drive.google.com/open?id=135vuSx2k2sELZjy-MR6CzpzbdIxk0DkP) 
-
-![Console Output](https://drive.google.com/open?id=1AcAeBh7OPLaq4UtCY4ft19wyeIDplhZu)
+![Screenshot_2019-10-15_at_5.27.24_PM.png](https://support.getpostman.com/hc/article_attachments/360048238494/Screenshot_2019-10-15_at_5.27.24_PM.png)
