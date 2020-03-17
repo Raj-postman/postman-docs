@@ -13,13 +13,9 @@ The functions on the display are simple to work with and you will find the diffe
 
 Users can click on “**Open Launchpad**” as shown below:
 
-![Postman App](https://drive.google.com/open?id=1vHDWizOMsquCrP0yRXuvjah7-wMGHevw) 
-
-
-![LaunchPad](https://drive.google.com/open?id=170YZKviVKZoaSJi6OtKuNBbTqOCbF054) 
-
-
-
+![Screenshot_2019-10-03_at_3.49.27_PM.png](https://support.getpostman.com/hc/article_attachments/360048281293/Screenshot_2019-10-03_at_3.49.27_PM.png)  
+  
+![Screenshot_2019-10-03_at_3.49.48_PM.png](https://support.getpostman.com/hc/article_attachments/360047392414/Screenshot_2019-10-03_at_3.49.48_PM.png)
 
 LaunchPad provides a clear indication on how to proceed further, especially if you're a first time user, it provides an index to start running the First request, Collection or an Environment. 
 
@@ -29,7 +25,8 @@ It also has some General settings to customize the application such as modes or 
 
 The section “**Discover**” lets users navigate to the various Templates and APIs which might be helpful.
 
-![Discover](https://drive.google.com/open?id=1Fxev3ULBUIFOwhJlD_FFHJnX0myIpG_d)
+![Screenshot_2019-10-03_at_3.56.07_PM.png](https://support.getpostman.com/hc/article_attachments/360048281333/Screenshot_2019-10-03_at_3.56.07_PM.png)
+
 For existing users, the launchpad additionally provides an insight into the existing Team workspaces users can join and collaborate, it also shows their recent workspaces they were working or building a collection on.
 
-![Join Team Workspace](https://drive.google.com/open?id=1LVjAhhqpdIigyiBPsdR51B5g27FnLpof)
+![Screenshot_2019-10-03_at_4.15.13_PM.png](https://support.getpostman.com/hc/article_attachments/360047392774/Screenshot_2019-10-03_at_4.15.13_PM.png)
