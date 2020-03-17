@@ -25,11 +25,3 @@ If you accidentally used an invalid email address during signup, and have forgot
 6. At least 5 private monitor names
 7. At least 2 previous invoice or receipt numbers
 8. Last 4 digits of the card used for purchase(s) on your team
-
-
-If you have a **user role** then (1)&(2)&(3)&(4)&(5)&(6) can be used to verify the account (or  data) ownership and with the **Billing role**, you can verify by providing details on (7)&(8)&(9).
-
- 
-- **Verification** - Once the verification is done we will send the password reset link for the incorrect email id from the support ticket so that you can log in and later the email can be changed via this here
-
-_**Criteria mentioned in this article is one way to verify. Will be contacting users for additional details**_
