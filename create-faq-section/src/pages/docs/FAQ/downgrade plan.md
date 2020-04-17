@@ -1,3 +1,11 @@
+---
+title: "What happens when I downgrade my plan?"
+order: 7
+page_id: "What-happens-when-I-downgrade-my-plan?"
+warning: false
+---
+
+
 ### What happens when I downgrade my plan?
 
 On downgrading the plan from Team/ Business/ Enterprise to free version, you will have some limits around the usage of Postman features such as collaboration, SSO and others. Please refer to the below link to know the complete comparison of our plan features.
