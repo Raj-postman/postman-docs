@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particular user",
+            "name": "Sample endpoint",
             "id": "45bd7021-d00e-4e46-abe9-0c47bca866d3",
             "request": {
                 "method": "GET",
@@ -21,9 +21,9 @@
                     ],
                     "query": [
                         {
+                            "description": "(Required) ID of the user",
                             "key": "id",
-                            "value": "21361866",
-                            "description": "(Required) ID of the user"
+                            "value": "21361866"
                         }
                     ]
                 }
@@ -59,11 +59,14 @@
                     },
                     "status": "OK",
                     "code": 200,
-                    "_postman_previewlanguage": "json",
+                    "_postman_previewlanguage": "Text",
                     "header": [
                         {
                             "disabled": false,
-                            "description": "A link to the next page of responses",
+                            "description": {
+                                "content": "A link to the next page of responses",
+                                "type": "text/plain"
+                            },
                             "key": "x-next",
                             "value": "Ut reprehenderit"
                         },
@@ -106,7 +109,7 @@
                     },
                     "status": "Internal Server Error",
                     "code": 500,
-                    "_postman_previewlanguage": "json",
+                    "_postman_previewlanguage": "Text",
                     "header": [
                         {
                             "key": "Content-Type",
